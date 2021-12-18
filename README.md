@@ -1,6 +1,4 @@
 # dApp1
-dApp test 
-
 # CryptoRight Blockchain Copyright System
 
 ## Summary
